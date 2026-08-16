@@ -1,8 +1,6 @@
 # Awesome Miyoo Mini [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-> Curated software, tooling, and documentation for the Miyoo Mini family of handhelds.
-
-The Miyoo Mini are SigmaStar SSD202D-based handhelds — dual-core Cortex-A7 @ 1.2 GHz, 128 MB DDR3. The ecosystem is unusually deep for a device this cheap, but it's scattered across GitHub topic pages, Discord pins, and a docs site. This list tries to be the index that doesn't exist.
+Curated software, tooling, and documentation for the Miyoo Mini family of handhelds.
 
 **Scope:** Miyoo Mini (v1–v4), Mini Plus, and Mini Flip.
 
@@ -83,7 +81,7 @@ The [community apps index](https://onionui.github.io/docs/community-apps) is the
 ## Hardware & SoC
 
 - SSD202D: dual Cortex-A7 @ 1.2 GHz, 128 MB DDR3, 16 MB SPI ROM, MI_GFX 2D engine, no 3D GPU.
-- Display: 640×480 IPS — 2.8" on the Mini, 3.5" on the Plus. Newer v4 units and the Flip ship a 752×560 panel needing separate handling (Onion #1272, Koriki multi-resolution).
+- Display: 640×480 IPS — 2.8" on the Mini, 3.5" on the Plus. Newer v4 units and the Flip ship a 752×560 panel.
 - RTC: absent on the base Mini and early Plus units; present on later Plus revisions. Common mod otherwise.
 - WiFi: Plus only. No Bluetooth on any model.
 - Battery: 1900 mAh (v1) / 2000 mAh (v2) Mini; ~3000 mAh Plus.
